@@ -1,9 +1,11 @@
-# Proyecto administrator gym
+To install dependencies:
+```sh
+bun install
+```
 
-## backend
+To run:
+```sh
+bun run dev
+```
 
-HonoJs
-
-## frontend
-
-nextjs
+open http://localhost:3000
